@@ -1,0 +1,101 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: 'Figtree';
+}
+
+.Card-blog {
+    background-color: hsl(0, 0%, 100%);
+    width: 340px;
+    height: 450px;
+    margin: 50px auto;
+    border-radius: 20px;
+    border: 1px solid hsl(0, 0%, 7%);
+    box-shadow: 8px 7px 0px black;
+}
+
+.img-fundo-blog {
+    width: 300px;
+    margin: 20px 0 5px 20px;
+    border-radius: 20px;
+}
+
+.aprendizado-estilo {
+    background-color: hsl(47, 88%, 63%);
+    width: 102px;
+    font-size: 13px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 5px 0 5px 22px;
+}
+
+.h1-estilo{
+    margin: 15px 0 5px 20px;
+}
+
+.texto-data-estilo {
+    font-size: 12px;
+    margin: 10px 0 10px 20px;
+}
+
+.texto-explicacao-estilo {
+    font-size: 13px;
+    color: hsl(0, 0%, 50%);
+    margin: 10px 0 10px 20px;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    margin: 10px 0 10px 9px;
+}
+
+.avatar p{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+img {
+    width: 30px;
+}
+
+.link-externo-estilo { 
+    font-size: 11px;
+    text-align: center;
+    font-weight: bold;
+}
+.link-externo-estilo a { 
+    color: hsl(0, 0%, 100%);
+    text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+    .Card-blog {
+        background-color: hsl(0, 0%, 100%);
+        width: 340px;
+        height: 450px;
+        margin: 160px 0 20px 73px;
+        border-radius: 20px;
+        border: 1px solid hsl(0, 0%, 7%);
+        box-shadow: 8px 7px 0px black;
+    }
+
+    .link-externo-estilo {
+        font-size: 11px;
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 150px;
+    }
+}
+
+
