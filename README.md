@@ -25,7 +25,8 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./assets/images/screenshot-fundo.jpg)
+![](./assets/img/screenshot-fundo.jpg)
+
 
 ### Links
 
