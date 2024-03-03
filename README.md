@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
+- URL da solução: [Repositorio]([https://your-solution-url.com](https://github.com/KaueACLima/projeto-card-blog-principal))
 - URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
 
 ## Meu processo
