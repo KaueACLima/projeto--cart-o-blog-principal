@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Repositorio]([https://your-solution-url.com](https://github.com/KaueACLima/projeto-card-blog-principal)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
+- URL do site ativo: [Card Blog]([https://your-live-site-url.com](https://kaueaclima.github.io/projeto-card-blog-principal/)
 
 ## Meu processo
 
