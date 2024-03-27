@@ -1,6 +1,4 @@
-# Frontend Mentor - Solução de cartão de visualização de blog
-
-Esta é uma solução para o [desafio do cartão de visualização do blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
+# Dev em Dobro - Projeto Scissor Seven
 
 ## Índice
 
@@ -9,7 +7,6 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construido-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
@@ -20,18 +17,19 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
 
 Os usuários devem ser capazes de:
 
-- Visualizar um card com informações aparte de um blog HTML e CSS.
+- Selecionar o personagem no menu
+- Apresentar informações do personagem.
 
 
 ### Screenshot
 
-![](./assets/img/screenshot-fundo.jpg)
+![projeto-viloes-scissor-seven](https://github.com/KaueACLima/projeto-card-blog-principal/assets/56000639/b4da24c4-e830-46e9-a00e-526685bfac5b)
 
 
 ### Links
 
 - URL da solução: [Repositorio]([https://your-solution-url.com](https://github.com/KaueACLima/projeto-card-blog-principal)
-- URL do site ativo: [Card Blog]([https://your-live-site-url.com](https://kaueaclima.github.io/projeto-card-blog-principal/)
+- URL do site ativo: [Scissor Seven: Liga dos Assassinos]([https://your-live-site-url.com](https://kaueaclima.github.io/projeto-card-blog-principal/)
 
 ## Meu processo
 
@@ -39,30 +37,22 @@ Os usuários devem ser capazes de:
 
 - HTML5 semântica
 - CSS3
+- JavaScript
 
 ### O que eu aprendi
 
-Aprendi como melhorar meu código, realizei graças a constantes horas de estudos. Pude desenvolver melhor como usar o elemento 'box-shadow'
+Aprendi como melhorar meu código, refatorando ele. Outro conseito foi o forEach(
 
-```html
-<section class="Card-blog">
-      <article>
-        <img class="img-fundo-blog" src="./assets/images/illustration-article.svg"
-          alt="Imagem amarela e preta de fundo para blog" title="Imagem amarela e preta de fundo para blog">
-```
-```css
-.Card-blog {
-    background-color: hsl(0, 0%, 100%);
-    width: 340px;
-    height: 450px;
-    margin: 50px auto;
-    border-radius: 20px;
-    border: 1px solid hsl(0, 0%, 7%);
-    box-shadow: 8px 7px 0px black;
-}
+```Js
+  botoes.forEach((botao, index) => {
+  botao.addEventListener("click", () => {
 ```
 
 ## Autor
 
 - Frontend Mentor - [KaueACLima](https://www.frontendmentor.io/profile/KaueACLima)
 - Linkedin - [in/kauê-lima](https://www.linkedin.com/in/kau%C3%AA-lima-234515182/)
+
+##Agradecimentos
+
+Gostaria de aproveitar a oportunidade para agradecer ao gemeõs do Dev em Dobro e pessoal responsável.
