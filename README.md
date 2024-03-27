@@ -53,6 +53,6 @@ Aprendi como melhorar meu código, refatorando ele. Outro conseito foi o forEach
 - Frontend Mentor - [KaueACLima](https://www.frontendmentor.io/profile/KaueACLima)
 - Linkedin - [in/kauê-lima](https://www.linkedin.com/in/kau%C3%AA-lima-234515182/)
 
-##Agradecimentos
+## Agradecimentos
 
 Gostaria de aproveitar a oportunidade para agradecer ao gemeõs do Dev em Dobro e pessoal responsável.
